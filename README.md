@@ -20,7 +20,7 @@ System.out.print("Quem Sou Eu?");
 
 🌟 1. Introdução
 
-Meu nome é Mateus do Carmo da Silva Mendonça e sou estudante de Análise e Desenvolvimento de Sistemas.
+Meu nome é Mateus Mendonça e sou estudante de Análise e Desenvolvimento de Sistemas.
 Estou no início da minha jornada no mundo da tecnologia, aprendendo os fundamentos que irão me preparar para atuar no desenvolvimento de software.
 
 🌟Criei esse perfil no github para mostrar minha evolução nas matérias propostas pela grade curricular.
@@ -41,7 +41,7 @@ Além disso, sigo estudando lógica de programação e compreendendo como os sis
 
 📚 3. Próximos Passos no Aprendizado
 
-Cursos Online: Pretendo continuar meus estudos em plataformas como Coursera, Udemy e Khan Academy, buscando uma base cada vez mais sólida.
+Cursos Online: Pretendo continuar meus estudos buscando uma base cada vez mais sólida.
 
 Prática Constante: Quero praticar através de pequenos projetos e exercícios que reforcem meu raciocínio lógico.
 
